@@ -1,2 +1,2 @@
 # react
-contoh untuk menghubungkan form survey ke database
+COntoh file untuk belajar react js
